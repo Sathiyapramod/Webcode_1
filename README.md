@@ -6,11 +6,11 @@
 
 ## Constraints:
 
-##### * All your HTML elements should be created with DOM.
-##### * Use the async/await.
-##### * Use try catch to handle errors.
-##### * Use fetch() to get the data from Pokemon Api
-##### * All JavaScript codes should be in a script file named script.js which has to be imported in your HTML page.
+##### * All  HTML elements with DOM.
+##### * Used the async/await.
+##### * Used try catch to handle errors.
+##### * Used fetch() to get the data from Pokemon Api
+##### * All JavaScript codes in a script file named script.js which is imported in HTML page.
 
 ## <u>Displayed the below values:</u>
 
